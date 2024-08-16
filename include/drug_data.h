@@ -1,6 +1,6 @@
 // drug_data.h
 #ifndef DRUG_DATA_H
-#define DRUG_DATA_h
+#define DRUG_DATA_H
 
 #include <string>
 

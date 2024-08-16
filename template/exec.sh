@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Define the path to the executable and the log file
-EXECUTABLE="/home/ali/CiPAORdv1.0_Land_rapid_integration/bin/cipaordv1_land2016"
+EXECUTABLE="..//bin/cipaordv1_land2016"
 PARAMS_FILE="params.txt"
-HILL_DATA_FILE="/home/ali/CiPAORdv1.0_Land_rapid_integration/hill_data/bepridil.csv"
-HERG_DATA_FILE="/home/ali/CiPAORdv1.0_Land_rapid_integration/herg_data/bepridil.csv"
+HILL_DATA_FILE="..//hill_data/bepridil.csv"
+HERG_DATA_FILE="..//herg_data/bepridil.csv"
 LOG_FILE="simulation.log"
 
 # Check if the executable and parameter files exist

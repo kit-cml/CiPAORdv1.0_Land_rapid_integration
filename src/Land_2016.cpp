@@ -5,7 +5,7 @@
 #include <cstdlib>
 #include <cstdio>
 #include <iostream>
-// #include "cellmodel.hpp"
+// #include "Cellmodel.h"
 // #include "../modules/glob_funct.hpp"
 // #include <cuda_runtime.h>
 // #include <cuda.h>

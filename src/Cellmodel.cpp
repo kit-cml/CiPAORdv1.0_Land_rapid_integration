@@ -1,11 +1,11 @@
 #include "Cellmodel.h"
 
-//Cellmodel::Cellmodel()
-//{
+// Cellmodel::Cellmodel()
+// {
 //    //ctor
-//}
+// }
 
-//Cellmodel::~Cellmodel()
-//{
+// Cellmodel::~Cellmodel()
+// {
 //    //dtor
-//}
+// }
